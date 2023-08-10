@@ -1,5 +1,7 @@
 # Ethereum: Forging the Future of Decentralized Possibilities
+![ethereum-geared-up-for-the-merge-heres-all-you-need-to-know](https://github.com/LateefAkinola/Gas_Station_2.0/assets/105966848/452ee82f-f4fd-44d8-86e7-c50d1555cc4e)
 
+🔗[Website](https://ethereum.org/en/)
 
 Ethereum, a resplendent beacon in the blockchain cosmos, propels us into a world of boundless decentralized potential. As a pioneer in smart contracts and decentralized applications (dApps), Ethereum reshapes the digital landscape, carving a path towards a new paradigm of trust, transparency, and innovation.
 
