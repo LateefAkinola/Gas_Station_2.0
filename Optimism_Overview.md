@@ -1,6 +1,8 @@
 # Embarking into the Realm of Optimism: Elevating Ethereum with Layer 2 Brilliance
 ![op-1](https://github.com/LateefAkinola/Gas_Station_2.0/assets/105966848/127a8994-2fdb-4163-aa10-d134070b1fa2)
 
+🔗[Website](https://www.optimism.io/)
+
 Optimism emerges as a **dazzling solution** within the Ethereum landscape, heralding an era of unprecedented scalability, efficiency, and transformative possibilities. As Ethereum strives to surmount the challenges posed by high gas fees and network congestion, Optimism stands as a testament to innovation, offering a beacon of hope and respite.
 
 At its heart, Optimism represents a **Layer 2 scaling marvel**, intricately intertwined with the Ethereum mainnet. By migrating computational tasks and transaction processing to a secondary layer, Optimism propels the network into realms of enhanced transaction throughput and cost-effectiveness.
