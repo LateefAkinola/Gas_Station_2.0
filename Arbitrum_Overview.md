@@ -1,4 +1,7 @@
 # Introducing Arbitrum: Pioneering Ethereum's Evolution through Layer 2 Brilliance
+![arbitrum](https://github.com/LateefAkinola/Gas_Station_2.0/assets/105966848/57222ecd-0666-41d4-a38e-c0e7ffc138f9)
+
+🔗[Website](https://arbitrum.foundation/)
 
 Arbitrum stands as a **trailblazing solution** within the Ethereum ecosystem, ushering in a new era of scalability, efficiency, and accessibility. As the blockchain sphere grapples with the imperative need for enhanced transaction throughput and reduced fees, Arbitrum emerges as a beacon of innovation, addressing these challenges with remarkable finesse.
 
